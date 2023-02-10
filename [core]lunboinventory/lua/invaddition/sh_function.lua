@@ -1,0 +1,1 @@
+LUnboxInventoryAddition = LUnboxInventoryAddition or {}
